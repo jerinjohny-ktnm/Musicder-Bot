@@ -19,9 +19,9 @@ module.exports = {
     start_message: "<b>Hey, 👋👋</b>\n\n<em>Welcome to <b>MusiCom Bot</b>.\n\nJust send the Song's Name or, Jiosaavn Song's Link & You will get Best Matched Result(s) with their Download Link(s).\n\nBrought you by @imjerin</em>",
 
     // Customize your /about message {html is supported}
-    about_message: "Created by <a href='https://jerinjohny.ml'>Jerin Johny</a>.",
+    about_message: "Created by <a href='https://github.com/jerinjohny-ktnm'>Jerin Johny</a>.",
 
     // Customize your /help message {html is supported}
-    help_message: "Created by <a href='https://jerinjohny.ml'>Jerin Johny</a>.",
+    help_message: "Created by <a href='https://github.com/jerinjohny-ktnm'>Jerin Johny</a>.",
 
 };
